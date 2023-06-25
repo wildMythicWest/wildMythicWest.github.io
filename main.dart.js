@@ -52285,7 +52285,7 @@ vY(a){var s=0,r=A.a9(t.H),q=this,p
 var $async$vY=A.a5(function(b,c){if(b===1)return A.a6(c,r)
 while(true)switch(s){case 0:q.ax=new A.R(A.b(q.dx,"_cameraWrapper").a.a.a.d6(0,1).a[0]*4/5,A.b(q.dx,"_cameraWrapper").a.a.a.d6(0,1).a[1]*4/5)
 p=q.a1
-p.c=10
+p.c=1
 p.e=20
 return A.a7(null,r)}})
 return A.a8($async$vY,r)},
